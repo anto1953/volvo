@@ -1,0 +1,236 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.body1img{
+    display: block;
+    object-fit: cover;
+    height: 700px;
+    width: 112%;
+    
+    
+}
+.body1{
+    margin-left: -29px;    
+}
+.volvotxt{
+    position: absolute;
+    top: 20px;
+    left: 50px;
+    width: 120px;
+}
+#navbar1{
+    position: absolute;
+    background: transparent;
+    width: 100%;
+    border: transparent;
+    object-fit: cover;
+    display: flex;
+    
+}
+#menubtn{
+    
+    border: none;
+    padding-left: 95%;
+    color: white;
+    font-weight: 600;
+    width: 20px;
+    cursor: pointer;
+    
+
+}
+#collapsibleNavbar{
+    background-color: white;
+    position: absolute;
+    left: 0px;
+    top: 40px;
+    width: 400px;
+    height: 600px;
+    z-index: 1;
+    
+}
+.listul a{
+    padding-top: 0px;
+    font-size: 25px;
+    position: relative;
+    padding-top: 20px;
+    color: black;
+    text-decoration: none;
+}
+.body1txt{
+    
+        font-family: "Bebas Neue", sans-serif;
+        font-weight: bold;
+        font-size: 55px;
+        line-height: 21px;
+        position: absolute;
+        top: 370px;
+        color: white;
+        margin-left: 50%;
+        line-height: 1;
+        width: auto;
+        letter-spacing: 2px;
+}
+.body2{
+    width: 100%;
+}
+.body2ul{
+    list-style: none;
+    display: flex;
+    overflow:auto;
+    width: 92%;
+    scrollbar-width: none;
+
+    
+    position: absolute;
+    margin-left: 0px;
+    top: 115px;
+    
+}
+.body2ul li img{
+    margin-left:0px;
+    height: 400px;
+}
+.body2p{
+    position: absolute; 
+    margin-left: 0px;
+}
+.body2ul2{
+    position: absolute;
+    top: 550px;
+    margin-left: 0px;
+    
+}
+.body2line{
+    padding-left: 0px;
+    color: blue;
+    font-size: 8px;
+}
+
+     
+
+.body3{
+    position: relative;
+    top: 560px;
+    width: 100%;
+}
+.body3video{
+    width: 100%;
+}
+.body4{
+    position: relative;
+    top: 550px;
+}
+.body4btn1{
+    width: 200px;
+    height: 55px;
+    background-color: rgb(49, 114, 184);
+    color: white;
+    border: none;
+}
+.body41{
+    padding-top: 10px;
+}
+.body5{
+    position: relative;
+    top: 550px;
+    width: 101%;
+    
+    background-color: black;
+    color: white;
+
+}
+.body5 li{
+    font-size: 22px;
+    font-weight: 400;
+    width: 100%;
+}
+.body52{
+    padding-top: 0px;
+    width: 100%;
+}
+
+
+
+.cookie{
+    position: fixed;
+    background-color: rgb(33, 74, 198);
+    border-radius: 10px;
+    color: white;
+    width: 50px;
+    top: 620px;
+    left: 5px;
+  
+}
+
+
+      @media screen and (min-width:1440px) and (max-width:2560px) {
+        .body1img{
+           width: 104.1%;
+        }
+        #collapsibleNavbar{
+            
+            left: 80%; 
+         }
+         .body2 ul{
+            width: 96%;
+         }
+         .body2ul li{
+            width: 100%;
+            padding-left: 100px;
+         }
+         .body2ul2{
+            padding-left: 100px;
+         }
+         .body2line{
+            font-size: 25px;
+         }
+         .body2line{
+            padding-left: 90px;
+         }
+         .body5{
+           
+            padding-left: 100px;
+            padding-top: 100px;
+         } 
+         .body53{
+            text-align: end;
+            right: 100px;
+            
+        }
+        }
+       
+        
+     
+    
+    @media screen and (max-width:429px){
+        .body2line{
+            font-size: 7px;
+         }
+         .body1{
+            width: 130%;
+         }
+         .body2{
+            width: 130%;
+         }
+         .body3video{
+            width: 130%;
+         } 
+         .body4{
+            width: 130%;
+         }
+         .body5{
+            width: 131%;
+         }
+         
+    }
+   
+    
+
+    
+  
+
+   
+   
+    
+  

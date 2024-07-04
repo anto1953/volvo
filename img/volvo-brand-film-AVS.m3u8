@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3113612
+
+https://s7mbrstream-g1.scene7.com/hls-vod/VolvoInformationTechnologyAB/_media_/bd5/bd50af43-2ff0-45a0-80e9-45079446ecaa.mp4.m3u8
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2116008
+
+https://s7mbrstream-g1.scene7.com/hls-vod/VolvoInformationTechnologyAB/_media_/6d4/6d451777-ee50-4ba2-88be-fd9d5ce14f79.mp4.m3u8
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=854297
+
+https://s7mbrstream-g1.scene7.com/hls-vod/VolvoInformationTechnologyAB/_media_/9f7/9f7b2b1c-d19c-424a-be34-a621f95abdf3.mp4.m3u8
